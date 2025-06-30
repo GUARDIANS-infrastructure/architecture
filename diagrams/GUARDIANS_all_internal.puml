@@ -1,5 +1,4 @@
 @startuml
-
 /'
 validate: actors are all present, correctly named and aliased
 validate: packages are all present, correctly named and aliased

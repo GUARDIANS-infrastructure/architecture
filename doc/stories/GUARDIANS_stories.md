@@ -132,13 +132,13 @@ This is an opinionated first take on some important user stories for a national 
 
 ---
 
-![internal personae](../../diagrams/GUARDIANS_all_internal.png "Internal Personae")
+![internal personae](../../diagrams/GUARDIANS_all_internal.svg "Internal Personae")
 
-![all](../../diagrams/GUARDIANS_all.png "All")
+![all](../../diagrams/GUARDIANS_all.svg "All")
 
-![journey 1](../../diagrams/GUARDIANS_researcher_journey_1.png "Journey 1")
+![journey 1](../../diagrams/GUARDIANS_researcher_journey_1.svg "Journey 1")
 
-![journey 2](../../diagrams/GUARDIANS_researcher_journey_2.png "Journey 2")
+![journey 2](../../diagrams/GUARDIANS_researcher_journey_2.svg "Journey 2")
 
 ---
 
